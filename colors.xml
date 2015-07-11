@@ -1,0 +1,6 @@
+<resources>
+<color name="sudoku_background">#ffe6f0ff</color>
+<color name="sudoku_highLight">#ffffffff</color>
+<color name="sudoku_light">#64c6d4ef</color>
+<color name="sudoku_dark">#6456648f</color>
+</resources>
